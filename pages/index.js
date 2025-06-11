@@ -8,7 +8,7 @@ const sections = [
   { title: 'Founder', description: 'Meet the visionary behind AgeisX.' },
   { title: 'Co-Founders', description: 'The minds building innovation together.' },
   { title: 'Our Team', description: 'A passionate, skilled, and driven crew.' },
-  { title: 'Success', description: 'Milestones and achievements we're proud of.' },
+  { title: 'Success', description: 'Milestones and achievements we are proud of.' },
   { title: 'Products', description: 'Explore our intelligent solutions.' },
   { title: 'Domains', description: 'We work across AI, Blockchain, and more.' },
 ];
