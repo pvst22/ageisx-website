@@ -1,0 +1,1 @@
+export default function Domains() { return <div className='p-8 text-white text-xl'>Domains Page</div>; }

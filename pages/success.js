@@ -1,0 +1,1 @@
+export default function Success() { return <div className='p-8 text-white text-xl'>Success Page</div>; }

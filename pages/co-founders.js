@@ -1,0 +1,1 @@
+export default function CoFounders() { return <div className='p-8 text-white text-xl'>Co Founders Page</div>; }

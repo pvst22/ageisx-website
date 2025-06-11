@@ -1,0 +1,1 @@
+export default function Founder() { return <div className='p-8 text-white text-xl'>Founder Page</div>; }

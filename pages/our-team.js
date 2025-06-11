@@ -1,0 +1,1 @@
+export default function OurTeam() { return <div className='p-8 text-white text-xl'>Our Team Page</div>; }
